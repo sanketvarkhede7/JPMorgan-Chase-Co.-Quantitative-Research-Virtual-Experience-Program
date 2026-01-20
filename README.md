@@ -113,6 +113,7 @@ NumPy
 
 
 Task 4 – Advanced Quantitative Analysis
+
 📌 Overview
 
 The task focuses on applying advanced quantitative and analytical techniques to solve real-world financial problems, closely simulating the work performed by quantitative researchers in global financial institutions.
