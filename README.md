@@ -72,3 +72,84 @@ Pandas & NumPy – Data manipulation and numerical analysis
 Matplotlib / Seaborn – Data visualization
 
 Jupyter Notebook – Interactive analysis and documentation
+
+Task 3 :
+
+📌 Overview
+
+The task focuses on applying quantitative analysis, statistical modeling, and data-driven reasoning to solve a real-world finance problem inspired by industry practices.
+
+🎯 Objective
+
+The goal of this task is to:
+
+Analyze provided financial or market data
+
+Apply quantitative techniques to extract insights
+
+Build logical, well-structured solutions using Python
+
+Demonstrate problem-solving skills relevant to quantitative research roles
+
+🧠 Key Concepts Covered
+
+Data preprocessing and cleaning
+
+Exploratory Data Analysis (EDA)
+
+Statistical reasoning & trend analysis
+
+Financial modeling fundamentals
+
+Python-based analytical workflows
+
+🛠️ Tools & Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+
+Task 4 – Advanced Quantitative Analysis
+📌 Overview
+
+The task focuses on applying advanced quantitative and analytical techniques to solve real-world financial problems, closely simulating the work performed by quantitative researchers in global financial institutions.
+
+🎯 Objective
+
+The primary goals of this task are to:
+
+Apply quantitative modeling techniques to financial datasets
+
+Perform data-driven analysis to extract insights
+
+Strengthen understanding of risk, pricing, and forecasting concepts
+
+Translate mathematical and statistical outputs into business-relevant conclusions
+
+🧠 Key Concepts Covered
+
+Statistical analysis and hypothesis testing
+
+Time series analysis and forecasting
+
+Financial modeling and valuation logic
+
+Data preprocessing and feature engineering
+
+Interpretation of quantitative results for decision-making
+
+🛠️ Tools & Technologies
+
+Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+
+Jupyter Notebook
+
+Data Analysis & Visualization
+
+Quantitative Finance Concepts
+Matplotlib / Seaborn (for visualization)
+
+Jupyter Notebook
