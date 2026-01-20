@@ -45,3 +45,30 @@ Matplotlib
 Scikit-learn
 
 Jupyter Notebook
+
+
+
+
+Task 2 :
+
+🔍 Task Overview
+
+Working with structured financial data
+
+Applying quantitative techniques to analyze trends and patterns
+
+Implementing models to support data-backed decision-making
+
+Interpreting results with a focus on risk, forecasting, and financial insights
+
+This task simulates the type of analysis performed by quantitative researchers in a global financial institution.
+
+🛠️ Tools & Technologies Used
+
+Python
+
+Pandas & NumPy – Data manipulation and numerical analysis
+
+Matplotlib / Seaborn – Data visualization
+
+Jupyter Notebook – Interactive analysis and documentation
